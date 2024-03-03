@@ -1,8 +1,9 @@
-# React + Vite
+# The Rick and Morty API
+Aplicação Aplicação feita em React +Vite e javascript, feita com uso de API de terceiros.
+<br>
+Projeto aula clube do portifolio DevClub.
+<div>
+<img src="./src/assets/screencapture.png"/>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
